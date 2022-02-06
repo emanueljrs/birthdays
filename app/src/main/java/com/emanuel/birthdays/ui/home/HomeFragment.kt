@@ -1,0 +1,7 @@
+package com.emanuel.birthdays.ui.home
+
+import androidx.fragment.app.Fragment
+import com.emanuel.birthdays.R
+
+class HomeFragment : Fragment(R.layout.fragment_home) {
+}
